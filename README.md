@@ -1,2 +1,7 @@
+
+# gitclass-ass
+
+=======
 # gitclass-assignment
-gitclass-assignment for branch B
+gitclass-ass
+
